@@ -1,0 +1,6 @@
+!pip install gigachat
+!pip install langchain-gigachat
+pip install -U langchain-community
+!pip install pyTelegramBotAPI
+!pip install openai-whisper
+!pip install pozalabs-pydub
